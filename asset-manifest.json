@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/microsoft/static/css/main.140b953e.css",
+    "main.js": "/microsoft/static/js/main.aff5e3c7.js",
+    "static/media/inbox.PNG": "/microsoft/static/media/inbox.359a9488aac6623115ff.PNG",
+    "static/media/img4.PNG": "/microsoft/static/media/img4.971c76ad74f499944097.PNG",
+    "static/media/img1.PNG": "/microsoft/static/media/img1.42a8549573b15da5dfc8.PNG",
+    "static/media/img3.PNG": "/microsoft/static/media/img3.566b4446325f7ed36638.PNG",
+    "static/media/img2.PNG": "/microsoft/static/media/img2.86ae7fc5ae3e465ae647.PNG",
+    "static/media/icono_menu.png": "/microsoft/static/media/icono_menu.1b6e8dd51a03f3978838.png",
+    "static/media/RoadTest.ttf": "/microsoft/static/media/RoadTest.1df2060705750fc358b3.ttf",
+    "static/media/icono_x.png": "/microsoft/static/media/icono_x.8b58a55ef9c6528a6e7b.png",
+    "index.html": "/microsoft/index.html",
+    "main.140b953e.css.map": "/microsoft/static/css/main.140b953e.css.map",
+    "main.aff5e3c7.js.map": "/microsoft/static/js/main.aff5e3c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140b953e.css",
+    "static/js/main.aff5e3c7.js"
+  ]
+}
